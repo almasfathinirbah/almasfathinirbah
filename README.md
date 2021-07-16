@@ -10,7 +10,7 @@ Glad to see you here!
 - 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-almasfathinirbah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almasfathinirbah/)](https://www.linkedin.com/in/almasfathinirbah/)
-[![Instagram Badge](https://img.shields.io/badge/-quasarxdragon-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/quasarxdragon/)](https://instagram.com/quasarxdragon)
+[![Instagram Badge](https://img.shields.io/badge/-almasxspace-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/almasxspace/)](https://instagram.com/almasxspace)
 [![Medium Badge](https://img.shields.io/badge/-@almasfathinirbah-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@almasfathinirbah/)](https://medium.com/@almasfathinirbah)
 [![Gmail Badge](https://img.shields.io/badge/-almasfathinirbah@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:almasfathinirbah@gmail.com)](mailto:almasfathinirbah@gmail.com)
 
